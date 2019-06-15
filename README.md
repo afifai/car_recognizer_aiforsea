@@ -120,7 +120,6 @@ python vis_classification_file.py --checkpoints data/checkpoints --prefix vggnet
 you will get this result 
 
 ```
-[INFO] predicted color=Black
 [INFO] actual=Mazda:Tribute
 	[INFO] predicted=Mazda:Tribute, probability=42.98%
 	[INFO] predicted=BMW:X5, probability=17.02%
