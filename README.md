@@ -25,7 +25,7 @@ Ater that, download pretrained VGG16 model, you can download it [here](https://d
 
 ### Installation
 
-We must install OpenCV and MxNet by building MxNet from scratch (because we need built-in mxnet tools (im2rec) in this repository). We can follow tutorial for install opencv and mxnet on this (link)[https://www.pyimagesearch.com/2019/01/30/ubuntu-18-04-install-tensorflow-and-keras-for-deep-learning/]
+We must install OpenCV and MxNet by building MxNet from scratch (because we need built-in mxnet tools (im2rec) in this repository). We can follow tutorial for install opencv and mxnet on this [link](https://www.pyimagesearch.com/2019/01/30/ubuntu-18-04-install-tensorflow-and-keras-for-deep-learning/)
 
 After we have an environment for running mxnet & opencv, install all prerequisites library using pip
 
